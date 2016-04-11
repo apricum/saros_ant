@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: de.fu_berlin.inf.dpp.netbeans
+OpenIDE-Module-Layer: de/fu_berlin/inf/dpp/netbeans/layer.xml
+OpenIDE-Module-Localizing-Bundle: de/fu_berlin/inf/dpp/netbeans/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+
